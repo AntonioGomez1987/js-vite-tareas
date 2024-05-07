@@ -11,7 +11,7 @@ const state = {
         new Todo('Tender cama'),
         new Todo('Sacar al perro'),
         new Todo('Preparar desayuno'),
-        new Todo('Clase de Logica'),
+        new Todo('Clase de Lógica'),
         new Todo('Preparar almuerzo'),
         new Todo('... etc'),
     ],
