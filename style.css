@@ -42,7 +42,7 @@ body {
 }
 
 .todoapp {
-	background: #9accb1;
+	background: #f6f6f6;
 	margin: 130px 0 40px 0;
 	position: relative;
 	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2),
@@ -108,7 +108,7 @@ body {
 .main {
 	position: relative;
 	z-index: 2;
-	border-top: 1px solid #e6e6e6;
+	border-top: 1px solid #390a0a;
 }
 
 .toggle-all {
@@ -140,7 +140,7 @@ body {
 }
 
 .toggle-all:checked + label:before {
-	color: #737373;
+	color: #864343;
 }
 
 .todo-list {
