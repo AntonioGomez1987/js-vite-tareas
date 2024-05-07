@@ -2,8 +2,8 @@
 
 Es una aplicacion web creada con JavaScript, usando vite.
 Su funcion principal es de anotar las tareas que el individuo se asigne y tenerlas presentes,
-para así  ate4nderlas y darles check cuando las finalice. tambien las puede borrar,
-como mejor considere. 
+para así  atenderlas y darles check, cuando las finalice. 
+Tambien las puede borrar, como mejor considere. 
 
 Pasos para ejecutar proyecto:
 
