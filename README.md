@@ -13,10 +13,10 @@ Pasos para ejecutar proyecto:
 
 ## Produccion
 
-1. Ejecutar ```bpm run build```
+1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
 
 ## Donde la puedo ver?
 
-Visit [TareasAppJAG](https://tareas-app-jag.netlify.app/).
+Visita [TareasAppJAG](https://tareas-app-jag.netlify.app/).
 
